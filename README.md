@@ -33,4 +33,3 @@ Workflow -
    - Implement robust error handling mechanisms to manage exceptions during image loading, preprocessing, and prediction.
    - Ensure the system's reliability by addressing potential issues such as incorrect image paths or corrupted image files.
 
-By accomplishing these detailed objectives, the Handwritten Digits Recognition system aims to provide a comprehensive solution for accurately recognizing handwritten digits, catering to both training on standard datasets like MNIST and inference on custom images.
